@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoFap Challenge</string>
+    <string name="tagline">Urdu motivation • streak • SOS</string>
+    <string name="start_challenge">Safai ka safar shuru karo</string>
+    <string name="days_clean">din paak</string>
+    <string name="next_milestone">Agla milestone: %1$d din</string>
+    <string name="menu_sos">🆘 Emergency (SOS)</string>
+    <string name="menu_milestones">🏆 Milestones</string>
+    <string name="menu_daleel">📖 Daleel (Qur\'an / Hadith)</string>
+    <string name="menu_reset">🔄 Dobara shuru karo (relapse)</string>
+    <string name="reset_title">Dobara shuru karna hai?</string>
+    <string name="reset_msg">Girna ghalti hai, lete rehna ghalti hai. Streak aaj se dobara shuru hogi — sharminda hone ki koi baat nahi.</string>
+    <string name="reset_yes">Haan, dobara shuru karo</string>
+    <string name="reset_no">Nahi, jari rakho</string>
+    <string name="sos_dua_title">Emergency Dua</string>
+    <string name="sos_dua_grading">Mustanad dua — Sunan Abi Dawud 1551, Tirmidhi, Nasa\'i, Ahmad</string>
+    <string name="sos_actions_title">Abhi ye 5 me se koi ek karo</string>
+    <string name="sos_timer_start">5 minute ka timer shuru karo</string>
+    <string name="sos_timer_done">Mubarak! 5 minute guzar gaye 🎉</string>
+    <string name="milestone_day">Din %1$d</string>
+    <string name="ref1_title">Surah An-Nur (24:30) — nazar ki hifazat</string>
+    <string name="ref1_use">App ka bunyadi usool — Day 1 se har screen ka anchor.</string>
+    <string name="ref2_title">Sahih Muslim 1400 — roza dhal hai</string>
+    <string name="ref2_use">Temptation ke waqt wali advice ka deeni anchor.</string>
+    <string name="ref4_title">Tirmidhi — relapse ke baad</string>
+    <string name="ref4_use">Relapse screen ka no-shame paigham: buri aadat ke baad achi neki karo.</string>
+
+    <string name="menu_guard">🛡️ Focus Guard (app block)</string>
+
+    <string name="guard_title">Focus Guard</string>
+    <string name="guard_desc">Jab Instagram, YouTube Shorts, TikTok waghera khulenge to app foran rok kar tumhe wapas streak par le aayegi. Guard tab tak on rahega jab tak tum khud unlock na karo.</string>
+    <string name="guard_status_on">✅ Guard ON hai — blocked apps ruk jayengi</string>
+    <string name="guard_status_off">Guard OFF hai</string>
+    <string name="guard_status_no_perm">⚠️ Guard ON hai lekin Accessibility permission nahi mili — neeche se enable karo</string>
+    <string name="guard_enable_perm">Accessibility permission do</string>
+    <string name="guard_perm_hint">List me "NoFap Challenge" dhoond kar ON karo</string>
+    <string name="guard_turn_on">Guard ON karo</string>
+    <string name="guard_turn_off">Guard OFF karo</string>
+    <string name="guard_hold_off">BAND karne ke liye 3 second dabaye rakho</string>
+    <string name="guard_holding">Dabaye rakho…</string>
+    <string name="guard_off_toast">Guard band ho gaya</string>
+    <string name="guard_apps_title">Kin apps ko rokna hai:</string>
+    <string name="guard_service_desc">NoFap Challenge ka Focus Guard: trigger karne wali apps khulne par rokta hai.</string>
+
+    <string name="blocked_title">%1$s blocked hai</string>
+    <string name="blocked_back">Wapas jao (home)</string>
+    <string name="blocked_streak">Apni streak dekho</string>
+
+    <string name="admin_title">Uninstall protection</string>
+    <string name="admin_desc">Isay on karne se app ko uninstall karne se pehle Settings me jaa kar device admin deactivate karna parega — ek extra rukawat.</string>
+    <string name="admin_status_on">✅ Protection ON hai</string>
+    <string name="admin_enable">Protection ON karo</string>
+    <string name="admin_explain">NoFap Challenge ko device admin banao taake kamzori ke lamhe me app foran uninstall na ho sake.</string>
+    <string name="admin_request_remove">Protection hatana hai</string>
+    <string name="admin_remove_title">Protection hatani hai?</string>
+    <string name="admin_remove_msg">Theek hai — lekin 24 ghante ka waqfa hoga. Kal is waqt wapas aao, phir hatane ka option milega.</string>
+    <string name="admin_remove_yes">24 ghante ka waqfa shuru karo</string>
+    <string name="admin_cooling">Protection %1$d ghante baad hat sakegi</string>
+    <string name="admin_honest">Imaandar baat: ye protection uninstall ko mushkil banati hai, namumkin nahi. Pakka irada hi asal hifazat hai.</string>
+</resources>
