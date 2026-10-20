@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoFap Challenge</string>
+    <string name="tagline">اردو موٹیویشن • اسٹریک • ایمرجنسی</string>
+    <string name="start_challenge">صفائی کا سفر شروع کرو</string>
+    <string name="days_clean">دن پاک</string>
+    <string name="next_milestone">اگلا مائلسٹون: %1$d دن</string>
+    <string name="menu_sos">🆘 ایمرجنسی (SOS)</string>
+    <string name="menu_milestones">🏆 مائلسٹونز</string>
+    <string name="menu_daleel">📖 دلیل (قرآن / حدیث)</string>
+    <string name="menu_reset">🔄 دوبارہ شروع کرو (relapse)</string>
+    <string name="reset_title">دوبارہ شروع کرنا ہے؟</string>
+    <string name="reset_msg">گرنا غلطی ہے، لیٹے رہنا غلطی ہے۔ اسٹریک آج سے دوبارہ شروع ہوگی — شرمندہ ہونے کی کوئی بات نہیں۔</string>
+    <string name="reset_yes">ہاں، دوبارہ شروع کرو</string>
+    <string name="reset_no">نہیں، جاری رکھو</string>
+    <string name="sos_dua_title">ایمرجنسی دعا</string>
+    <string name="sos_dua_grading">مستند دعا — سنن ابی داؤد 1551، ترمذی، نسائی، احمد</string>
+    <string name="sos_actions_title">ابھی یہ 5 میں سے کوئی ایک کرو</string>
+    <string name="sos_timer_start">5 منٹ کا ٹائمر شروع کرو</string>
+    <string name="sos_timer_done">مبارک! 5 منٹ گزر گئے 🎉</string>
+    <string name="milestone_day">دن %1$d</string>
+    <string name="ref1_title">سورۃ النور (24:30) — نظر کی حفاظت</string>
+    <string name="ref1_use">ایپ کا بنیادی اصول — پہلے دن سے ہر اسکرین کا اینکر۔</string>
+    <string name="ref2_title">صحیح مسلم 1400 — روزہ ڈھال ہے</string>
+    <string name="ref2_use">ٹیمپٹیشن کے وقت والی نصیحت کا دینی اینکر۔</string>
+    <string name="ref4_title">ترمذی — relapse کے بعد</string>
+    <string name="ref4_use">ری لیپس اسکرین کا no-shame پیغام: بری عادت کے بعد اچھی نیکی کرو۔</string>
+
+    <string name="menu_guard">🛡️ فوکس گارڈ (ایپ بلاک)</string>
+
+    <string name="guard_title">فوکس گارڈ</string>
+    <string name="guard_desc">جب انسٹاگرام، یوٹیوب شارٹس، ٹک ٹاک وغیرہ کھلیں گے تو ایپ فوراً روک کر تمہیں واپس اسٹریک پر لے آئے گی۔ گارڈ تب تک آن رہے گا جب تک تم خود ان لاک نہ کرو۔</string>
+    <string name="guard_status_on">✅ گارڈ آن ہے — بلاکڈ ایپس رک جائیں گی</string>
+    <string name="guard_status_off">گارڈ بند ہے</string>
+    <string name="guard_status_no_perm">⚠️ گارڈ آن ہے لیکن Accessibility اجازت نہیں ملی — نیچے سے فعال کرو</string>
+    <string name="guard_enable_perm">Accessibility اجازت دو</string>
+    <string name="guard_perm_hint">لسٹ میں "NoFap Challenge" ڈھونڈ کر آن کرو</string>
+    <string name="guard_turn_on">گارڈ آن کرو</string>
+    <string name="guard_turn_off">گارڈ بند کرو</string>
+    <string name="guard_hold_off">بند کرنے کے لیے 3 سیکنڈ دبائے رکھو</string>
+    <string name="guard_holding">دبائے رکھو…</string>
+    <string name="guard_off_toast">گارڈ بند ہو گیا</string>
+    <string name="guard_apps_title">کن ایپس کو روکنا ہے:</string>
+    <string name="guard_service_desc">NoFap Challenge کا فوکس گارڈ: ٹریگر کرنے والی ایپس کھلنے پر روکتا ہے۔</string>
+
+    <string name="blocked_title">%1$s بلاک ہے</string>
+    <string name="blocked_back">واپس جاؤ (ہوم)</string>
+    <string name="blocked_streak">اپنی اسٹریک دیکھو</string>
+
+    <string name="admin_title">انسٹال تحفظ</string>
+    <string name="admin_desc">اسے آن کرنے سے ایپ کو ان انسٹال کرنے سے پہلے سیٹنگز میں جا کر ڈیوائس ایڈمن بند کرنا پڑے گا — ایک اضافی رکاوٹ۔</string>
+    <string name="admin_status_on">✅ تحفظ آن ہے</string>
+    <string name="admin_enable">تحفظ آن کرو</string>
+    <string name="admin_explain">NoFap Challenge کو ڈیوائس ایڈمن بناؤ تاکہ کمزوری کے لمحے میں ایپ فوراً ان انسٹال نہ ہو سکے۔</string>
+    <string name="admin_request_remove">تحفظ ہٹانا ہے</string>
+    <string name="admin_remove_title">تحفظ ہٹانی ہے؟</string>
+    <string name="admin_remove_msg">ٹھیک ہے — لیکن 24 گھنٹے کا وقفہ ہوگا۔ کل اس وقت واپس آؤ، پھر ہٹانے کا آپشن ملے گا۔</string>
+    <string name="admin_remove_yes">24 گھنٹے کا وقفہ شروع کرو</string>
+    <string name="admin_cooling">تحفظ %1$d گھنٹے بعد ہٹ سکے گی</string>
+    <string name="admin_honest">ایماندار بات: یہ تحفظ ان انسٹال کو مشکل بناتی ہے، ناممکن نہیں۔ پکا ارادہ ہی اصل حفاظت ہے۔</string>
+</resources>
